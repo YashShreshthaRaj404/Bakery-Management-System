@@ -1,4 +1,4 @@
-# Bakery-Management-System
+# Bakery Management System
 
 ![logo](https://github.com/YashShreshthaRaj404/Bakery-Management-System/blob/main/bakery-cartoon-vector-icon-design-creative-projects_906149-95123.jpg)
 
